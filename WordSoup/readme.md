@@ -1,6 +1,6 @@
 # Skill test
 
-## Alphabet Soup
+## Word Soup
 
 A simple skills test to ensure you are able to write high-quality maintainable code that runs fast
 
