@@ -29,8 +29,7 @@ Assumptions:
 * Use Big-O notation to communicate how well your function performs
 * Use any langauge (in this case Python)
 
-===
 
 # Run Tests
 
-Run the following snippet in the command line: `pytest -h'
+Run the following snippet in the command line: `pytest`
