@@ -30,6 +30,10 @@ Assumptions:
 * Use any langauge (in this case Python)
 
 
+# Requirements
+
+You must install pytest in order to run the tests
+
 # Run Tests
 
 Run the following snippet in the command line: `pytest`
