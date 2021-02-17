@@ -10,6 +10,10 @@
 * extract crucial data from main page
 * create JSON file of extracted data
 
+## Set it up
+
+Change the name of configTemplate.txt to config.ini and update <placeholders> with real values
+
 ## Run it
 
 In a new virtualenv install all your depenedencies

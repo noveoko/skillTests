@@ -1,0 +1,9 @@
+[DEFAULT]
+
+[upwork.com]
+Username = <username>
+Password = <password>
+SecretAnswer = <secretanswer>
+#entry points
+loginPage = https://www.upwork.com/ab/account-security/login
+loginTitle = "Log In - Upwork"
